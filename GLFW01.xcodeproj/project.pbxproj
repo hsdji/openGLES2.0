@@ -10,6 +10,9 @@
 		750B423826E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png in Resources */ = {isa = PBXBuildFile; fileRef = 750B423726E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png */; };
 		750B423926E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png in Resources */ = {isa = PBXBuildFile; fileRef = 750B423726E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png */; };
 		750B423A26E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png in Resources */ = {isa = PBXBuildFile; fileRef = 750B423726E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png */; };
+		750B423C26E0F7FC00612C97 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 750B423B26E0F7FC00612C97 /* README.md */; };
+		750B423D26E0F7FC00612C97 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 750B423B26E0F7FC00612C97 /* README.md */; };
+		750B423E26E0F7FC00612C97 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 750B423B26E0F7FC00612C97 /* README.md */; };
 		7516E9FB26E0AD6D00A97F56 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7516E9FA26E0AD6D00A97F56 /* AppDelegate.m */; };
 		7516E9FE26E0AD6D00A97F56 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7516E9FD26E0AD6D00A97F56 /* SceneDelegate.m */; };
 		7516EA0126E0AD6D00A97F56 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7516EA0026E0AD6D00A97F56 /* ViewController.m */; };
@@ -61,6 +64,7 @@
 
 /* Begin PBXFileReference section */
 		750B423726E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WeChat76e393d02572bc230d6177930802dfab.png; sourceTree = "<group>"; };
+		750B423B26E0F7FC00612C97 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7516E9F726E0AD6D00A97F56 /* LearnOpenGLES02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnOpenGLES02.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7516E9F926E0AD6D00A97F56 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7516E9FA26E0AD6D00A97F56 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -205,6 +209,7 @@
 		755D058A26D644780055403C = {
 			isa = PBXGroup;
 			children = (
+				750B423B26E0F7FC00612C97 /* README.md */,
 				755D059526D644780055403C /* GLFW01 */,
 				75F6A8B926DE4872004E1BB7 /* Shared */,
 				75F6A8D826DE48C8004E1BB7 /* Shared */,
@@ -424,6 +429,7 @@
 				75BD3F0726E0EA11000E5489 /* shaderf.fsh in Resources */,
 				7516EA0926E0AD7000A97F56 /* LaunchScreen.storyboard in Resources */,
 				7516EA0626E0AD7000A97F56 /* Assets.xcassets in Resources */,
+				750B423E26E0F7FC00612C97 /* README.md in Resources */,
 				7516EA0426E0AD6D00A97F56 /* Main.storyboard in Resources */,
 				750B423A26E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png in Resources */,
 				75BD3F0626E0EA11000E5489 /* shaderv.vsh in Resources */,
@@ -436,6 +442,7 @@
 			files = (
 				750B423926E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png in Resources */,
 				754C548626DF4B1600D5F6CA /* LaunchScreen.storyboard in Resources */,
+				750B423D26E0F7FC00612C97 /* README.md in Resources */,
 				754C548326DF4B1600D5F6CA /* Assets.xcassets in Resources */,
 				754C548126DF4B1400D5F6CA /* Main.storyboard in Resources */,
 			);
@@ -447,6 +454,7 @@
 			files = (
 				750B423826E0EB0C00612C97 /* WeChat76e393d02572bc230d6177930802dfab.png in Resources */,
 				75F6A90D26DE48F5004E1BB7 /* LaunchScreen.storyboard in Resources */,
+				750B423C26E0F7FC00612C97 /* README.md in Resources */,
 				75F6A90A26DE48F5004E1BB7 /* Assets.xcassets in Resources */,
 				75F6A90826DE48F5004E1BB7 /* Main.storyboard in Resources */,
 			);
