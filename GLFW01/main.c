@@ -1,14 +1,15 @@
-//
-//  main.c
-//  GLFW01
-//
-//  Created by wuyd on 2021/8/25.
-//
+#include <GLFW/glfw3.h>
+#include "GLFWOriginDemo.h"
 
-#include <stdio.h>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main(void){
+/**  return originDemo(); glfw test demo*/
+    
+//    init glfw library and return the state
+    drawTriangles();
+    glfwTerminate();// Before exiting program, the library must be termination
     return 0;
 }
+
+
+
+
